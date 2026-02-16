@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Whiplash (English Version)",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-16T08:15:35.135755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whiplash (English Version)",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/01_Whiplash_(English_Version)_aespa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Whiplash - English Version",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_Whiplash_-_English_Version_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whiplash (English Version)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/03_Whiplash_(English_Version)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whiplash (English Version) (Sped Up Version)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_Whiplash_(English_Version)_(Sped_Up_Version)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whiplash (English Ver.)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_Whiplash_(English_Ver.)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whiplash (English Version)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/06_Whiplash_(English_Version)_aespa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Whiplash - English Version",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Whiplash_-_English_Version_aespa.txt"
+    }
+  ]
+}
